@@ -3,5 +3,6 @@
     <pages>
         <page name='001. 两数之和'/>
         <page name='002. 两数相加'/>
+        <page name='003. 无重复字符的最长子串'/>
     </pages>
 </playground>
